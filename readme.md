@@ -1,4 +1,4 @@
-Alarm clock using Vanilla JavaScript.
+ ## << Alarm-clock Application using Vanilla JavaScript. >>
 
 
 
